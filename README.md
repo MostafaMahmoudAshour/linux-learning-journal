@@ -1,14 +1,5 @@
 # linux-learning-journal
 
-Based on the screenshot you provided, your repository is a flat, date-based journal rather than a topic-based folder structure. 
-
-Here is the updated `README.md` tailored exactly to your file structure (`linux-learning-journal/2026/Days`), your specific file names, and the commit messages/topics visible in the screenshot.
-
-***
-
-```markdown
-# Linux Learning Journal 🐧
-
 Welcome to my Linux Learning Journal! This repository is a daily log of my journey mastering Linux. Instead of just taking static notes, I treat this as a public learning log where I document concepts, commands, and practical scripts day by day.
 
 ## 📂 Repository Structure
@@ -24,7 +15,6 @@ linux-learning-journal/
         ├── ...
         ├── ETL-Script-explanation.md
         └── linux-learning-log-2026-11-5.md
-```
 
 ## 🗺️ Learning Progress & Milestones
 
