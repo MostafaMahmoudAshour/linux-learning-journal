@@ -6,7 +6,7 @@ Welcome to my Linux Learning Journal! This repository is a daily log of my journ
 
 All notes are organized chronologically by year and day:
 
-
+```text
 linux-learning-journal/
 └── 2026/
     └── Days/
@@ -15,6 +15,7 @@ linux-learning-journal/
         ├── ...
         ├── ETL-Script-explanation.md
         └── linux-learning-log-2026-11-5.md
+```
 
 ## 🗺️ Learning Progress & Milestones
 
